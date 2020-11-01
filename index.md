@@ -1,46 +1,46 @@
 
-### Mir Mohammad Kamali
+### Mahsa Heydari
 <a href="https://uupload.ir/view/jn9p_img_20191107_165805_552.jpg" target="_blank"><img src="https://uupload.ir/files/jn9p_img_20191107_165805_552_thumb.jpg" border="0" alt="آپلود عکس" /></a>
 
 ### Personal informations
 
 ---
-+ name: Mir mohammad
-+ last name : kamali
-+ Date of birth : 1999/April/10
-+ I am a trader and Computer engineering student
++ name: Mahsa
++ last name : Heydari
++ Date of birth : 1997/may/8
++  Computer engineering student
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
++ Network+
++ web designer
 + Programming
-+ playing games on best leagues
 
 ### Education
 
 ---
-+ Diploma : Shahid Dr.Chamran school
++ Diploma : Hejrat High school
 _ 2015
 + Bachelor of science : computer Engineering
-_ 2018,payam Noor University of Rey 
+_ 2016,payam Noor University of North Tehran 
 
 ### Favorites
 
 ---
-+ Trade
-+ ping-pong
++ Web design
++ Yoga
++ Meditation 
 + travel 
-+ playing video games
 
 ### working Experience
 
 ---
-+ I am working in Mofid Brokerage .
++ I was a dental assistant.
 
-### [contact with me](https://web.telegram.org/#/im?p=@M7M_K)
+### [contact with me](Mahsaheydariii1997@gmail.com)
 
 
 --- 
