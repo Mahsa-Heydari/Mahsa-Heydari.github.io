@@ -16,8 +16,11 @@
 
 ---
 + Network+
-+ web designer
-+ Programming
++ HTML
++ c/c++
++ VHDL
++ SQL
++ ICDL
 
 ### Education
 
@@ -31,6 +34,7 @@ _ 2016,payam Noor University of North Tehran
 
 ---
 + Web design
++ programming
 + Yoga
 + Meditation 
 + travel 
