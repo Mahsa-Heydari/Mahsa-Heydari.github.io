@@ -1,6 +1,6 @@
 
 ### Mahsa Heydari
-<a href="https://uupload.ir/view/no8i_showstdpic.jpg" target="_blank"><img src="https://uupload.ir/files/no8i_showstdpic_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+<a href="https://uupload.ir/" target="_blank"><img src="https://uupload.ir/files/no8i_showstdpic.jpg" border="0" alt="آپلود عکس" /></a>
 
 ### Personal informations
 
@@ -16,10 +16,10 @@
 
 ---
 + Network+
-+ HTML
-+ c/c++
 + VHDL
++ HTML
 + SQL
++ C,C++
 + ICDL
 
 ### Education
