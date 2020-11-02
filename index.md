@@ -8,7 +8,7 @@
 + name: Mahsa
 + last name : Heydari
 + Date of birth : 1997/may/8
-+  Computer engineering student
++  Software engineering student
 + location : Tehran , I.R.Iran
 
 
