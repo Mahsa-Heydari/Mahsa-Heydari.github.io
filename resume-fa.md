@@ -4,7 +4,7 @@ body{
 }
 </style>
 ### مهسا حیدری
-<a href="https://uupload.ir/view/jn9p_img_20191107_165805_552.jpg" target="_blank"><img src="https://uupload.ir/files/jn9p_img_20191107_165805_552_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+<a href="https://uupload.ir/" target="_blank"><img src="https://uupload.ir/files/no8i_showstdpic.jpg" border="0" alt="آپلود عکس" /></a>
 ### اطلاعات شخصی
 
 ---
