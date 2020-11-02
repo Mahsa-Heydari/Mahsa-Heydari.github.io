@@ -33,8 +33,8 @@ _ 2016,payam Noor University of North Tehran
 ### Favorites
 
 ---
-+ Web design
-+ programming
++ Book
++ Programming
 + Yoga
 + Meditation 
 + travel 
@@ -42,7 +42,7 @@ _ 2016,payam Noor University of North Tehran
 ### working Experience
 
 ---
-+ I was a dental assistant.
++ dentist assistant
 
 ### [contact with me](Mahsaheydariii1997@gmail.com)
 
